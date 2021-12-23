@@ -6,7 +6,7 @@ import json
 import datetime
 from datetime import date
 import phonenumbers
-
+import sys
 #constant 
 debug = 0 # set 1 to activate
 
@@ -54,7 +54,7 @@ def attemptToReconnect(func):
 def init_db():
     """Initializes the database"""
     global mydb
-    mydb = MySQLdb.connect(host = "www.db4free.net", port = 3306, user="mohamedashraf", passwd = "ashraf1234",database = "worldgeo_ashraf")
+    mydb = MySQLdb.connect(host = "www.db4free.net", port = 3306, user="mohamedashraf", passwd = "",database = "worldgeo_ashraf")
     # debugging
     if debug:
         print("SUCCESS")
