@@ -1,0 +1,18 @@
+** To run the application:
+	1. Install Dependencies
+		-> pip install -r requirements.txt
+	
+	// Activate Virtual Environment
+	2. Source venv/bin/activate
+	
+	// Run flask
+	3. 
+		I. python3 app.py
+		II. FLASK_ENV=development flask run
+	
+
+
+** Webapp URL
+
+https://worldgeopedia.herokuapp.com/
+	
