@@ -1,0 +1,207 @@
+Algiers,Algeria
+Luanda,Angola
+Porto-Novoa,Benin
+Gaborone,Botswana
+Ouagadougou,Burkina Faso
+Gitega ,Burundi
+Yaoundé,Cameroon
+Praia,Cape Verde
+Bangui,Central African Republic
+N'Djamena,Chad
+Moroni,Comoros
+Kinshasa,Democratic Republic of the Congo
+Brazzaville,Republic of the Congo
+Djibouti,Djibouti
+Cairo,Egypt
+Malabo ,Equatorial Guinea
+Asmara,Eritrea
+Mbabane ,Eswatini
+Addis Ababa,Ethiopia
+Libreville,Gabon
+Banjul,The Gambia
+Accra,Ghana
+Conakry,Guinea
+Bissau,Guinea-Bissau
+Yamoussoukro ,Ivory Coast
+Nairobi,Kenya
+Maseru,Lesotho
+Monrovia,Liberia
+Tripoli,Libya
+Antananarivo,Madagascar
+Lilongwe,Malawi
+Bamako,Mali
+Nouakchott,Mauritania
+Port Louis,Mauritius
+Rabat,Morocco
+Maputo,Mozambique
+Windhoek,Namibia
+Niamey,Niger
+Abuja,Nigeria
+Kigali,Rwanda
+São Tomé,Sao Tome and Principe
+Dakar,Senegal
+Victoria,Seychelles
+Freetown,Sierra Leone
+Mogadishu,Somalia
+Pretoria ,South Africa
+Juba,South Sudan
+Khartoum,Sudan
+Dodoma,Tanzania
+Lomé,Togo
+Tunis,Tunisia
+Kampala,Uganda
+Lusaka,Zambia
+Harare,Zimbabwe
+Hargeisa,Somaliland
+Tirana,Albania
+Andorra la Vella,Andorra
+Yerevan,Armenia
+Vienna,Austria
+Baku,Azerbaijan
+Minsk,Belarus
+Brussels,Belgium
+ Sarajevo,Bosnia and Herzegovina
+Sofia,Bulgaria
+Zagreb,Croatia
+Nicosia  ,Cyprus
+Prague,Czech Republic
+Copenhagen,Denmark
+Tallinn,Estonia
+Helsinki,Finland
+Paris,France
+Tbilisi,Georgia_(country)
+Berlin,Germany
+Athens,Greece
+Budapest,Hungary
+Reykjavík,Iceland
+Dublin,Republic_of_Ireland
+Rome,Italy
+Riga,Latvia
+Vaduz,Liechtenstein
+Vilnius,Lithuania
+Luxembourg City,Luxembourg
+Valletta,Malta
+Chișinău,Moldova
+Monaco ,Monaco
+Podgorica,Montenegro
+Amsterdam,Netherlands
+Skopje,North Macedonia
+Oslo,Norway
+Warsaw,Poland
+Lisbon,Portugal
+Bucharest,Romania
+Moscow,Russia
+San Marino,San Marino
+Belgrade,Serbia
+Bratislava,Slovakia
+Ljubljana,Slovenia
+Madrid,Spain
+Stockholm,Sweden
+Bern,Switzerland
+Ankara,Turkey
+Kyiv,Ukraine
+London,United Kingdom
+Sukhumi,Abkhazia
+Stepanakert,Republic_of_Artsakh
+Pristinaa,Kosovo
+North Nicosia ,Northern Cyprus
+Tskhinvali,South Ossetia
+Tiraspol,Transnistria
+Buenos Aires,Argentina
+Sucre ,Bolivia
+Brasília,Brazil
+Santiagoa,Chile
+Bogotá,Colombia
+Quito,Ecuador
+Georgetown,Guyana
+Asunción,Paraguay
+Lima,Peru
+Paramaribo,Suriname
+Montevideo,Uruguay
+Caracas,Venezuela
+St. John's,Antigua and Barbuda
+Nassau,Bahamas
+Bridgetown,Barbados
+Belmopan,Belize
+Ottawa,Canada
+San José,Costa Rica
+Havana,Cuba
+Roseau,Dominica
+Santo Domingo,Dominican Republic
+San Salvador,El Salvador
+St. George's,Grenada
+Guatemala City,Guatemala
+Port-au-Prince,Haiti
+Tegucigalpa,Honduras
+Kingston,Jamaica
+Mexico City,Mexico
+Managua,Nicaragua
+Panama City,Panama
+Basseterre,Saint Kitts and Nevis
+Castries,Saint Lucia
+Kingstown,Saint Vincent and the Grenadines
+Port of Spain,Trinidad and Tobago
+Washington, D.C.,United States
+The Valley,Anguilla
+Hamilton,Bermuda
+Road Town,British Virgin Islands
+George Town,Cayman Islands
+Plymouth ,Montserrat
+Cockburn Town,Turks and Caicos Islands
+Kabul,Afghanistan
+Manama,Bahrain
+Dhaka,Bangladesh
+Thimphu,Bhutan
+Bandar Seri Begawan,Brunei
+Phnom Penh,Cambodia
+Beijing,China
+New Delhi,India
+Jakarta,Indonesia
+Tehran,Iran
+Baghdad,Iraq
+Tel Aviv,Israel
+Tokyo,Japan
+Amman,Jordan
+Nur-Sultan,Kazakhstan
+Pyongyang,North Korea
+Seoul,South Korea
+Kuwait City,Kuwait
+Bishkek,Kyrgyzstan
+Vientiane,Laos
+Beirut,Lebanon
+Kuala Lumpur,Malaysia
+Malé,Maldives
+Ulaanbaatar,Mongolia
+Naypyidaw,Myanmar
+Kathmandu,Nepal
+Muscat,Oman
+Islamabad,Pakistan
+Manila ,Philippines
+Doha,Qatar
+Riyadh,Saudi Arabia
+Sri Jayawardenepura Kotte ,Sri Lanka
+Damascus,Syria
+Dushanbe,Tajikistan
+Bangkok,Thailand
+Dili,East Timor
+Ashgabat,Turkmenistan
+Abu Dhabi,United Arab Emirates
+Tashkent,Uzbekistan
+Hanoi,Vietnam
+Sana'a ,Yemen
+Jerusalem,Palestine
+Taipei,Taiwan
+Canberra,Australia
+Palikir,Federated States of Micronesia
+Suva,Fiji
+South Tarawa on Tarawa,Kiribati
+Majuro,Marshall Islands
+Yaren ,Nauru
+Wellington,New Zealand
+Ngerulmud,Palau
+Port Moresby,Papua New Guinea
+Honiara,Solomon Islands
+Funafuti,Tuvalu
+Port Villa,Vanuatu
+Avarua,Cook Islands
+Alofi,Niue

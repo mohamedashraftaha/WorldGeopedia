@@ -1,0 +1,207 @@
+Abdelmadjid Tebboune,Algeria
+João Lourenço,Angola
+Patrice Talon,Benin
+Mokgweetsi Masisi,Botswana
+Roch Marc Christian Kaboré,Burkina Faso
+Évariste Ndayishimiye,Burundi
+Paul Biya,Cameroon
+José Maria Neves,Cape Verde
+Faustin-Archange Touadéra,Central African Republic
+Mahamat Déby,Chad
+Azali Assoumani,Comoros
+Félix Tshisekedi,Democratic Republic of the Congo
+Denis Sassou Nguesso,Republic of the Congo
+Ismaïl Omar Guelleh,Djibouti
+Abdel Fattah el-Sisi,Egypt
+Teodoro Obiang Nguema Mbasogo,Equatorial Guinea
+Isaias Afwerki,Eritrea
+Mswati III,Eswatini
+Sahle-Work Zewde,Ethiopia
+Ali Bongo Ondimba,Gabon
+Adama Barrow,The Gambia
+Nana Akufo-Addo,Ghana
+Mamady Doumbouya,Guinea
+Umaro Sissoco Embaló,Guinea-Bissau
+Alassane Ouattara,Ivory Coast
+Uhuru Kenyatta,Kenya
+Letsie III,Lesotho
+George Weah,Liberia
+Mohamed al-Menfi,Libya
+Andry Rajoelina,Madagascar
+Lazarus Chakwera,Malawi
+Assimi Goïta,Mali
+Mohamed Ould Ghazouani,Mauritania
+Prithvirajsing Roopun,Mauritius
+Mohammed VI,Morocco
+Filipe Nyusi,Mozambique
+Hage Geingob,Namibia
+Mohamed Bazoum,Niger
+Muhammadu Buhari,Nigeria
+Paul Kagame,Rwanda
+Carlos Vila Nova,Sao Tome and Principe
+Macky Sall,Senegal
+Wavel Ramkalawan,Seychelles
+Julius Maada Bio,Sierra Leone
+Mohamed Abdullahi Mohamed,Somalia
+Cyril Ramaphosa,South Africa
+Salva Kiir Mayardit,South Sudan
+Abdel Fattah al-Burhan,Sudan
+Samia Suluhu,Tanzania
+Faure Gnassingbé,Togo
+Kais Saied,Tunisia
+Yoweri Museveni,Uganda
+Hakainde Hichilema,Zambia
+Emmerson Mnangagwa,Zimbabwe
+Muse Bihi Abdi,Somaliland
+Ilir Meta,Albania
+Xavier Espot Zamora,Andorra
+Armen Sarkissian,Armenia
+Alexander Van der Bellen,Austria
+Ilham Aliyev,Azerbaijan
+Alexander Lukashenko ,Belarus
+Philippe,Belgium
+Christian Schmidt,Bosnia and Herzegovina
+Rumen Radev,Bulgaria
+Zoran Milanović,Croatia
+Nicos Anastasiades,Cyprus
+Miloš Zeman,Czech Republic
+Margrethe II,Denmark
+Alar Karis,Estonia
+Sauli Niinistö,Finland
+Emmanuel Macron,France
+Salome Zurabishvili,Georgia_(country)
+Frank-Walter Steinmeier,Germany
+Katerina Sakellaropoulou,Greece
+János Áder,Hungary
+Guðni Th. Jóhannesson,Iceland
+Michael D. Higgins,Republic_of_Ireland
+Sergio Mattarella,Italy
+Egils Levits,Latvia
+Hans-Adam II,Liechtenstein
+Gitanas Nausėda,Lithuania
+Henri,Luxembourg
+George Vella,Malta
+Maia Sandu,Moldova
+Prince Albert II,Monaco
+Milo Đukanović,Montenegro
+Willem-Alexander,Netherlands
+Stevo Pendarovski,North Macedonia
+Harald V,Norway
+Andrzej Duda,Poland
+Marcelo Rebelo de Sousa,Portugal
+Klaus Iohannis,Romania
+Vladimir Putin,Russia
+Francesco Mussoni,San Marino
+Aleksandar Vučić,Serbia
+Zuzana Čaputová,Slovakia
+Borut Pahor,Slovenia
+Felipe VI,Spain
+Carl XVI Gustaf,Sweden
+Guy Parmelin,Switzerland
+Recep Tayyip Erdoğan,Turkey
+Volodymyr Zelensky,Ukraine
+Boris Johnson,United Kingdom
+Aslan Bzhania,Abkhazia
+Arayik Harutyunyan,Republic_of_Artsakh
+Vjosa Osmani,Kosovo
+Ersin Tatar,Northern Cyprus
+Anatoliy Bibilov,South Ossetia
+Vadim Krasnoselsky,Transnistria
+Alberto Fernández,Argentina
+Luis Arce,Bolivia
+Jair Bolsonaro,Brazil
+Sebastián Piñera,Chile
+Iván Duque Márquez,Colombia
+Guillermo Lasso,Ecuador
+Irfaan Ali,Guyana
+Mario Abdo Benítez,Paraguay
+Pedro Castillo,Peru
+Chan Santokhi,Suriname
+Luis Lacalle Pou,Uruguay
+Nicolás Maduro,Venezuela
+Sir Rodney Williams,Antigua and Barbuda
+Sir Cornelius A. Smith,Bahamas
+Sandra Mason,Barbados
+Froyla Tzalam,Belize
+Mary May Simon,Canada
+Carlos Alvarado,Costa Rica
+Miguel Díaz-Canel,Cuba
+Charles Savarin,Dominica
+Luis Abinader,Dominican Republic
+Nayib Bukele,El Salvador
+Cécile La Grenade,Grenada
+Alejandro Giammattei,Guatemala
+Ariel Henry ,Haiti
+Juan Orlando Hernández,Honduras
+Patrick Allen,Jamaica
+Andrés Manuel López Obrador,Mexico
+Daniel Ortega,Nicaragua
+Laurentino Cortizo,Panama
+Sir Tapley Seaton,Saint Kitts and Nevis
+Neville Cenac,Saint Lucia
+Susan Dougan,Saint Vincent and the Grenadines
+Paula-Mae Weekes ,Trinidad and Tobago
+Joe Biden ,United States
+Dileeni Daniel-Selvaratnam,Anguilla
+Rena Lalgie,Bermuda
+John Rankin,British Virgin Islands
+Martyn Roper,Cayman Islands
+Andrew Pearce,Montserrat
+Nigel Dakin,Turks and Caicos Islands
+Hibatullah Akhundzada,Afghanistan
+Hamad bin Isa Al Khalifa,Bahrain
+Abdul Hamid,Bangladesh
+Jigme Khesar Namgyel Wangchuck,Bhutan
+Hassanal Bolkiah,Brunei
+Norodom Sihamoni,Cambodia
+Li Keqiang,China
+Ram Nath Kovind,India
+Joko Widodo,Indonesia
+Ebrahim Raisi,Iran
+Barham Salih,Iraq
+Isaac Herzog,Israel
+Naruhito,Japan
+Abdullah II,Jordan
+Kassym-Jomart Tokayev,Kazakhstan
+Kim Jong-un,North Korea
+Moon Jae-in,South Korea
+Nawaf Al-Ahmad Al-Jaber Al-Sabah,Kuwait
+Sadyr Japarov,Kyrgyzstan
+Thongloun Sisoulith,Laos
+Michel Aoun,Lebanon
+Abdullah,Malaysia
+Ibrahim Mohamed Solih,Maldives
+Ukhnaagiin Khürelsükh,Mongolia
+Myint Swe ,Myanmar
+Bidya Devi Bhandari,Nepal
+Haitham bin Tariq,Oman
+Arif Alvi,Pakistan
+Rodrigo Duterte,Philippines
+Tamim bin Hamad,Qatar
+Salman bin Abdulaziz,Saudi Arabia
+Gotabaya Rajapaksa,Sri Lanka
+Bashar al-Assad,Syria
+Emomali Rahmon,Tajikistan
+Vajiralongkorn ,Thailand
+Francisco Guterres,East Timor
+Gurbanguly Berdimuhamedow,Turkmenistan
+Khalifa bin Zayed Al Nahyan,United Arab Emirates
+Shavkat Mirziyoyev,Uzbekistan
+Nguyễn Xuân Phúc,Vietnam
+Abdrabbuh Mansur Hadi ,Yemen
+Mahmoud Abbasa,State_of_Palestine
+Tsai Ing-wen,Taiwan
+David Hurley,Australia
+David Panuelo,Federated States of Micronesia
+Wiliame Katonivere,Fiji
+Taneti Maamau,Kiribati
+David Kabua,Marshall Islands
+Lionel Aingimea,Nauru
+Cindy Kiro,New Zealand
+Surangel Whipps Jr.,Palau
+Bob Dadae,Papua New Guinea
+David Vunagi,Solomon Islands
+Tofiga Vaevalu Falani,Tuvalu
+Tallis Obed Moses,Vanuatu
+Mark Brown,Cook Islands
+Cindy Kiro,Niue
